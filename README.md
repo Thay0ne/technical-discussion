@@ -9,4 +9,4 @@ This is a demo repo for sharing ideas around communication
 
 ### Gist
 
-This is a good example of sharing a (Gist) (https://gist.github.com/Thay0ne/80cff6971478e61dc5fee3e02367bd91)
+This is a good example of sharing a [Gist] (https://gist.github.com/Thay0ne/80cff6971478e61dc5fee3e02367bd91)
