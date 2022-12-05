@@ -13,7 +13,7 @@ This is a good example of sharing a [Gist](https://gist.github.com/Thay0ne/80cff
 
 ### Colab Example
 
-https://colab.research.google.com/drive/1pFkavEOJT3ye9pfKRt9xDOFjsk2J3eVG?authuser=1#scrollTo=FMKh1gCQ9vZf
+This is the [notebook](https://colab.research.google.com/drive/1pFkavEOJT3ye9pfKRt9xDOFjsk2J3eVG?authuser=1#scrollTo=FMKh1gCQ9vZf)
 
 ### Image
 
